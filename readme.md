@@ -53,5 +53,19 @@ Bus 001 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
 #### Storage Nomenclature
 
 ##### a. Host Bus Adapter
+  <p> A host bus adapter is a type of circut board. This circut boards connects to a host system to a storage or network device. The purpose of the host bus adapter is that it helps I/O processig reducing the host's microprocessors load when storing and getiing data. This helps improve the overall performace of the host. </p>
   
 ##### b. Serial ATA(SATA)
+   <p> </p>
+  
+##### c. Fiber Channel
+   <p> </p>
+  
+##### d. iSCSI
+   <p> </p>
+  
+##### e. Storage Area Network (SAN)
+   <p> </p>
+  
+##### f. Network Attached Storage (NAS)
+   <p> </p>
