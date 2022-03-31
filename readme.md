@@ -49,3 +49,9 @@ Bus 001 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
 
 <b> Column Descriptions: <b>
 
+  
+#### Storage Nomenclature
+
+##### a. Host Bus Adapter
+  
+##### b. Serial ATA(SATA)
