@@ -62,10 +62,10 @@ Bus 001 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
    <p> Fiber Channels are used to transfer large data quickly between one or more computers through interconnected storage servers. This is used usually for storage networking server enviornments as a alternative to small computer system interface.The FC-specific swich is known as the fabric. There is also usually a FC port used to achice FC-based data transfers.  </p>
   
 ##### d. iSCSI
-   <p> Internet Small Computer System Interface or iSCSI is a way of linking data storage facilities through an internet protocol. </p>
+   <p> Internet Small Computer System Interface or iSCSI is a way of linking data storage facilities through an internet protocol. It is a way of managing storage over long distances. It gives block level access to storage devices. It does this by carrying SCSI commands over a TCP-based IP network. The iSCSI can be used to transmit data over the internet, LAN or WAN and it can enable non location dependent data storage and retrieval. ISCSI doesn't support object storage access or Network attached storage. </p>
   
 ##### e. Storage Area Network (SAN)
-   <p> </p>
+   <p> Storage Area Networks provide block level network access to storage through a high speed network, they are one of the main storage architectures. SAN's are typically used to improve application performance, increase storage effectivness, improve data security, improve application avalibility, and they usually play an important role in an organizations Bussiness community management activities. SAN's provide storage devices to a host so the storage appears locally attached. SAN's are generally based on FC technology. </p>
   
 ##### f. Network Attached Storage (NAS)
-   <p> </p>
+   <p> Network attached storage is used to make stored data more accessible to networked devices. IT is a file-level storage architecture. NAS is another of the main storage architectures.  </p>
