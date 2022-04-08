@@ -48,7 +48,10 @@ Bus 001 Device 002: ID 80ee:0021 VirtualBox USB Tablet
 Bus 001 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
 
 <b> Column Descriptions: <b>
-
+- The first column shows you the bus number, each bus represent connections to your device
+- The second column represents the device number
+- The third colom represents the vendor Id : product ID 
+- The fourth column represents the vendor name and the product
   
 #### Storage Nomenclature
 
