@@ -59,10 +59,10 @@ Bus 001 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
    <p> Serial ATA, or Serial AT Attachment (SATA) is a interface that connects host bus adapters to mass storage devices. These mass storage devices can be hard drives, optical drives, etc. Parallel ATA was the device in place, in the 1980's, to do this before Serial ATA came out as a better alternative to it. SATA's are usually used to connect hard disk drives to a host system. The SATA has transfer rates which are much faster than PATA and ATA. The SATA also allows for hot swapping meaning you can replace computer components without shutting off the computer. This was not possible with the PATA. </p>
   
 ##### c. Fiber Channel
-   <p> </p>
+   <p> Fiber Channels are used to transfer large data quickly between one or more computers through interconnected storage servers. This is used usually for storage networking server enviornments as a alternative to small computer system interface.The FC-specific swich is known as the fabric. There is also usually a FC port used to achice FC-based data transfers.  </p>
   
 ##### d. iSCSI
-   <p> </p>
+   <p> Internet Small Computer System Interface or iSCSI is a way of linking data storage facilities through an internet protocol. </p>
   
 ##### e. Storage Area Network (SAN)
    <p> </p>
